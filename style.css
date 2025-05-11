@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 151, 217);
+    text-align: center;
+    color: black;
+}
+
+.container {
+    margin: 0 auto;
+    border-radius: 15%; 
+    background-color: white; 
+    padding: 30px; 
+    width: 500px; 
+    height: auto; 
+    margin: 0 auto; 
+}
+
+
+iframe {
+    display: block; 
+    margin: 20px auto; 
+    max-width : 100%; 
+}
